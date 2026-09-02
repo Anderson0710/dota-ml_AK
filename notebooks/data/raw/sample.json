@@ -1,0 +1,17 @@
+[
+  {
+    "match_id": 7654321098,
+    "radiant_win": true,
+    "duration": 2145
+  },
+  {
+    "match_id": 7654321099,
+    "radiant_win": false,
+    "duration": 1284
+  },
+  {
+    "match_id": 7654321100,
+    "radiant_win": true,
+    "duration": 2892
+  }
+]
